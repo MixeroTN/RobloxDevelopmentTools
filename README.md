@@ -1,6 +1,6 @@
 # Roblox Development Tools
 
-Pack of scripts to make the development easier.
+The set of scripts to make the development easier.
 
 ## Where to put?
 
