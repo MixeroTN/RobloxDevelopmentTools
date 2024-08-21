@@ -9,3 +9,7 @@ script that has been made to reinstall the latest Roblox-related packages after 
 with outdated packages the game uses and stores, as the Packages folder is ignored.
 
 These scripts aren't packaged. They are intended to copy-paste and eventually change for your liking. They are also lightweight.
+
+## Things to note
+
+- If you have included Rojo in `wally.toml` file, make sure to stop `serve` when merging (git pull with changes), and executing the shell file to create a hook (the file also executes the code on file execution, to prevent that remove the part of code repeated from inside the `cat` command).
