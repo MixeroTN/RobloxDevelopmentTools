@@ -16,5 +16,5 @@ These scripts aren't packaged. They are intended to copy-paste and eventually ch
 
 ## Things to note
 
-- Remember to include the wally packages provided in our's `wally.toml`.
-- If you have included Rojo in `wally.toml` file, make sure to stop `serve` when merging (git pull with changes), and when executing the shell file to create a hook (the file also executes the code on file execution, to prevent that remove the part of code repeated from inside the `cat` command).
+- Remember to include the aftman packages provided in our's `aftman.toml`.
+- If you have included Rojo in `aftman.toml` file, make sure to stop `serve` when merging (git pull with changes), and when executing the shell file to create a hook (the file also executes the code on file execution, to prevent that remove the part of code repeated from inside the `cat` command).
